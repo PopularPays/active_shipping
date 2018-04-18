@@ -33,7 +33,7 @@
 
 ### v1.13.2
 - Bump active_utils to 3.3.1
-- Allow activesupport <5.2.0
+- Allow activesupport <5.3.0
 
 ### v1.13.1
 - Fix up UPS tracker parsing for Kosovo (KV)
